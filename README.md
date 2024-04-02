@@ -1,2 +1,2 @@
 # repopythonescueladeprogramacion
-en este repositorio subiremos la informacion relacionada a git con git hub
+en este repositorio subiremos las actividades relacionadas con el curso de python
